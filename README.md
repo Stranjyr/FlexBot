@@ -1,19 +1,25 @@
 # FlexBot
+
 Driving a robot with Maximum Effort
 
-#Robot Ideas
-##Model A
+# Robot Ideas
+
+## Model A
+
 - two wheel tank controls in the back
 - single front wheel on pivot
-##Model B
+
+## Model B
+
 - Four Wheel Tank Control
 
-##Control Ideas
+## Control Ideas
+
 - Flex + joystick
 - Muse Headband
 - Oculus + camera
 
-##Hardware
+## Hardware
 - Arduino
 - Intel Edison (for wifi)
 - Muse
